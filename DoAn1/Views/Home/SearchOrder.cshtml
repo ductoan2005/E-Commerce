@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "SearchOrder";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+    <h1>SearchOrder</h1>
+    <form asp-controller="Home" asp-action="ResultSearchOrder" method="get">
+        <div class="form-group">
+            <label class="control-label"></label>
+            <input name="email" type="tel" placeholder="Nhập vào số điện thoại của khách hàng" class="form-control" />
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Search" class="btn btn-primary" />
+        </div>
+    </form>
+
+

@@ -1,0 +1,106 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+
+<section class="breadcrumb breadcrumb_bg" style="position: relative; z-index: 1; background-color: #e8f0f2; margin-bottom: 0px !important;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+                <div class="breadcrumb_iner">
+                    <div class="breadcrumb_iner_item">
+                        <p style="font-size: 15px; color: #777777;">Laptop / Category</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="container-fluid justify-content-center gory-section">
+        <div class="section-header mb-70 text-center" >
+            <br /><br />
+        </div>
+</div>
+<div class="popular-items section-padding30">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                @*search bar*@
+                <div class="col-lg-12 col-md-12" style="margin-bottom: 30px">
+                    <form class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100" asp-controller="Home" asp-action="Find">
+                        <div class="input-group">
+                            <input type="text" name="tensp" id="tensp" class="form-control bg-light border-0" placeholder="Search for..." aria-label="Search" aria-describedby="basic-addon2">
+                            <div class="input-group-append">
+                                <button class="btn" type="button" style="border: 1px solid #0A98C0; border-radius: 0; background-color: white; font-weight: bold; color: #0A98C0;">
+                                    <i class="fas fa-search fa-sm"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="left_sidebar_area">
+                    <aside class="left_widgets p_filter_widgets sidebar_box_shadow">
+                        <div class="l_w_title" style="padding-left: 0; padding-right: 0;">
+                            <h3 style="margin-bottom: 20px; font-size: 14px; color: #2a2a2a; font-weight: 500; line-height: 40px; position: relative; background-color: #e8f0f2; padding: 10px 15px 10px 30px; text-transform: uppercase;">Lọc sản phẩm</h3>
+                        </div>
+                        <div class="widgets_inner" style="padding-left: 30px; padding-right: 30px; padding-top: 0px; padding-bottom: 15px;">
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item"><a asp-controller="Home" asp-action="SortByName" style="color: gray">Sắp xếp theo tên</a></li>
+                                <li class="list-group-item"><a asp-controller="Home" asp-action="SortByPrice" style="color: gray">Sắp xếp theo giá tiền tăng dần</a></li>
+                            </ul>
+                        </div>
+                    </aside>
+                </div>
+            </div>
+            <div class="col-lg-9 col-md-9">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        <h2 style="font-weight: bold">Sản phẩm</h2>
+                    </div>
+                    @foreach (var item in ViewBag.laptop)
+                    {
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                            <div class="single-popular-items mb-50 text-center">
+                                <div class="popular-img">
+                                    <img src="~/image/@item.HinhAnh" width="300" height="300" alt="">
+                                    <div class="img-cap">
+                                        @if (item.SoLuong == 0)
+                                        {
+                                        <span>Hết hàng</span>
+                                        }
+                                        else
+                                        {
+                                            <form asp-action="Buy" asp-controller="Cart" method="post">
+                                                <span>
+                                                    <input type="number" name="soLuong" value="1" min="1" max="@item.SoLuong" />
+                                                    <input type="hidden" name="id" value="@item.LaptopID" style="border: #1bb1dc" />
+                                                    <input type="submit" value="Thêm vào giỏ hàng" style="color: #fff; background: #1bb1dc; border:none" />
+                                                </span>
+                                            </form>
+                                        }
+                                    </div>
+                                    <div class="favorit-items">
+                                        <span class="flaticon-heart"></span>
+                                    </div>
+                                </div>
+                                <div class="popular-caption">
+                                    <h3><a asp-action="Details" asp-controller="Home" asp-route-id="@item.LaptopID">@item.TenLaptop</a></h3>
+                                    <span>$@item.Giatien</span>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<div style="text-align:center">
+    @for (int i = 0; i < ViewBag.count; i++)
+    {
+        <a asp-controller="Home" asp-action="Index" asp-route-id="@i" class="btn btn-outline-primary">@i</a>
+    }
+</div>

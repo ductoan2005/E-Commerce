@@ -1,0 +1,62 @@
+﻿@model DoAn1.Models.AdminKhachHangDangKiModel
+@{
+    ViewData["Title"] = "CreateUser";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h1>CreateUser</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateUser" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Username</label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input rows="6" asp-for="LastName" class="form-control"></input>
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DienThoaiKH" class="control-label"></label>
+                <input rows="6" asp-for="DienThoaiKH" class="form-control"></input>
+                <span asp-validation-for="DienThoaiKH" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Hinh Anh</label>
+                <input class="form-control" type="file" name="photo" id="photo" />
+            </div>
+            <div class="form-group">
+                <label asp-for="DiaChiKH" class="control-label"></label>
+                <textarea rows="6" asp-for="DiaChiKH" class="form-control"></textarea>
+                <span asp-validation-for="DiaChiKH" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TichDiem" class="control-label"></label>
+                <input type="number" rows="6" asp-for="TichDiem" class="form-control"></input>
+                <span asp-validation-for="TichDiem" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NgaySinh" class="control-label"></label>
+                <input type="date" rows="6" asp-for="NgaySinh" class="form-control"></input>
+                <span asp-validation-for="NgaySinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

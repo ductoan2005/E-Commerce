@@ -1,0 +1,66 @@
+﻿@model IEnumerable<DoAn1.Models.HoaDon>
+@{
+    ViewData["Title"] = "List";
+}
+
+<table class="table">
+    <tr>
+        <th>Mã hóa đơn</th>
+        <th>Khách hàng</th>
+        <th>Ngày</th>
+        <th>Trạng thái</th>
+        <th>Ghi Chú</th>
+        <th></th>
+
+    </tr>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.HoaDonID)</td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KhachHang.TenKH)
+                </td>
+                <td>@Html.DisplayFor(modelItem => item.Ngay)</td>
+                @if (item.TrangThai == 1)
+                {
+                    <td>Đang chờ xác nhận đơn hàng</td>
+                    <td><a asp-action="ShipperOrder" asp-controller="Cart" asp-route-id="@item.HoaDonID" style="float: right; margin-top: 10%; border: none; border-radius: 1.5rem; padding: 2%; background: #0062cc; color: #fff; font-weight: 600; width: 120px; text-align:center; cursor: pointer;">Xác nhận</a></td>
+                    <td><a asp-action="CancelOrder" asp-controller="Cart" asp-route-id="@item.HoaDonID" style="float: right; margin-top: 10%; border: none; border-radius: 1.5rem; padding: 2%; background: #0062cc; color: #fff; font-weight: 600; width: 120px; text-align:center; cursor: pointer;">Hủy</a></td>
+                }
+                else if (item.TrangThai == 2)
+                {
+
+                    <td>Đã giao hàng cho shipper</td>
+                    <td><a asp-action="ShippingOrder" asp-controller="Cart" asp-route-id="@item.HoaDonID" style="float: right; margin-top: 10%; border: none; border-radius: 1.5rem; padding: 2%; background: #0062cc; color: #fff; font-weight: 600; width: 120px; text-align:center; cursor: pointer;">Xác nhận</a></td>
+                }
+                else if (item.TrangThai == 3)
+                {
+                    <td>Shipper đang trên đường giao</td>
+                    <td><a asp-action="SubmitOrder" asp-controller="Cart" asp-route-id="@item.HoaDonID" style="float: right; margin-top: 10%; border: none; border-radius: 1.5rem; padding: 2%; background: #0062cc; color: #fff; font-weight: 600; width: 120px; text-align:center; cursor: pointer;">Xác nhận</a></td>
+                }
+                else if (item.TrangThai == 4)
+                {
+                    <td>Đã giao hàng thành công</td>
+                }
+                else if (item.TrangThai == 0)
+                {
+                    <td>Đã huỷ</td>
+                }
+                else if (item.TrangThai == 5)
+                {
+
+                    <td>Đã thanh toán, đang chờ giao hàng</td>
+                    <td><a asp-action="ShipperOrder" asp-controller="Cart" asp-route-id="@item.HoaDonID" style="float: right; margin-top: 10%; border: none; border-radius: 1.5rem; padding: 2%; background: #0062cc; color: #fff; font-weight: 600; width: 120px; text-align:center; cursor: pointer;">Xác nhận</a></td>
+                    <td><a asp-action="CancelOrder" asp-controller="Cart" asp-route-id="@item.HoaDonID" style="float: right; margin-top: 10%; border: none; border-radius: 1.5rem; padding: 2%; background: #0062cc; color: #fff; font-weight: 600; width: 120px; text-align:center; cursor: pointer;">Hủy</a></td>
+                }
+                <td>@Html.DisplayFor(modelItem => item.GhiChu.TenGhiChu)</td>
+
+                <td><a asp-action="OutputExcel" asp-controller="Cart" asp-route-id="@item.HoaDonID" style="float: right; margin-top: 10%; border: none; border-radius: 1.5rem; padding: 2%; background: #0062cc; color: #fff; font-weight: 600; width: 120px; text-align:center; cursor: pointer;">Xuất excel</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

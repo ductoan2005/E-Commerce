@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewData["Title"] = "ListRole";
+}
+
+<h1>ListRole</h1>
+@if (ViewBag.user!=null)
+{
+    <a class="btn btn-primary" style="width:auto" asp-action="CreateUser" asp-controller="Customer">Add new user</a>
+    <br />
+    @foreach (var user in ViewBag.user)
+    {
+        <div class="card">
+            <div class="card-header">
+                User Id : @user.Id
+
+            </div>
+            <div class="card-body">
+                User Name :@user.Email
+            </div>
+            <div class="card-body">
+                Password :@user.Password
+            </div>
+            <div class="card-body">
+                Tên khách hàng :@user.TenKH
+            </div>
+            <div class="card-body">
+                Địa chỉ khách hàng :@user.DiaChiKH
+            </div>
+            <div class="card-body">
+                Số điện thoại :@user.DienThoaiKH
+            </div>
+            <div class="card-body">
+                Điểm tích luỹ :@user.TichDiem
+            </div>
+            <div class="card-body">
+                Mật khẩu :@user.Password
+            </div>
+            <div class="card-body"></div>
+            <div class="card-footer">
+                <a asp-controller="Customer" asp-action="Edit" asp-route-id="@user.Id" class="btn btn-primary">Edit</a>
+                <a asp-controller="Customer" asp-action="Voucher" asp-route-id="@user.Id" class="btn btn-primary">Xem mã voucher của Users</a>
+                <a asp-controller="Customer" asp-action="ChangePassword" asp-route-id="@user.Id" class="btn btn-danger">Change Password</a>
+            </div>
+        </div>
+        <br />
+    }
+
+}
+else
+{
+    <h2>hiện tại không có users nào cả</h2>
+}
+

@@ -1,0 +1,119 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<div id="chart_div"></div>
+<script type="text/javascript">
+
+    google.charts.load('current', {
+        packages: ['corechart', 'bar']
+    });
+    google.charts.setOnLoadCallback(LoadData);
+
+    function LoadData() {
+        $.ajax({
+
+            url: 'chart/PChart',
+            dataType: "json",
+            type: "GET",
+            error: function (xhr, status, error) {
+                var err = eval("(" + xhr.responseText + ")");
+                toastr.error(err.message);
+            },
+            success: function (data) {
+                PopulationChart(data);
+                return false;
+            }
+        });
+        return false;
+    }
+
+    function PopulationChart(data) {
+        var dataArray = [
+            ['ngay', 'tongTien']
+        ];
+        $.each(data, function (i, item) {
+            dataArray.push([item.ngay, item.tongTien]);
+        });
+        var data = google.visualization.arrayToDataTable(dataArray);
+        var PieChart_options = {
+            title: 'PieChart',
+            chartArea: {
+                width: '50%'
+            },
+            colors: ['#b0120a', '#7b1fa2', '#7b1fa8', '#7b1fa9'],
+            hAxis: {
+                title: 'ngay',
+                minValue: 0
+            },
+            vAxis: {
+                title: 'Total Population'
+            }
+        };
+        var LineChart_options = {
+            title: 'LineChart',
+            chartArea: {
+                width: '50%'
+            },
+            colors: ['#b0120a', '#7b1fa2', '#7b1fa8', '#7b1fa9'],
+            hAxis: {
+                title: 'ngay',
+                minValue: 0
+            },
+            vAxis: {
+                title: 'Total Population'
+            }
+        };
+        var ColumnChart_options = {
+            title: 'ColumnChart',
+            chartArea: {
+                width: '50%'
+            },
+            colors: ['#b0120a', '#7b1fa2', '#7b1fa8', '#7b1fa9'],
+            hAxis: {
+                title: 'ngay',
+                minValue: 0
+            },
+            vAxis: {
+                title: 'Total Population'
+            }
+        };
+        var PieChart = new google.visualization.PieChart(document.getElementById('PieChart_div'));
+        var ColumnChart = new google.visualization.ColumnChart(document.getElementById('ColumnChart_div'));
+        var LineChart = new google.visualization.LineChart(document.getElementById('LineChart_div'));
+        PieChart.draw(data, PieChart_options);
+        LineChart.draw(data, LineChart_options);
+        ColumnChart.draw(data, ColumnChart_options);
+        return false;
+    }
+
+</script>
+<div>
+    <table class="columns">
+        <tr>
+            <td><div id="PieChart_div" style="border: 1px solid #ccc"></div></td>
+            <td><div id="LineChart_div" style="border: 1px solid #ccc"></div></td>
+            <td><div id="ColumnChart_div" style="border: 1px solid #ccc"></div></td>
+        </tr>
+    </table>
+</div>
+
+<form asp-controller="Chart" asp-action="DoanhThu">
+    <input type="datetime-local" name="FromDate" />
+    <input type="datetime-local" name="ToDate" />
+    <input type="submit" value="search" />
+    <select name="option">
+        <option value="0">tất cả đơn hàng</option>
+        <option value="1">chờ xác nhận</option>
+        <option value="2">Đã giao hàng</option>
+        <option value="3">đang trên đường giao</option>
+        <option value="4">Đã giao hàng thành công</option>
+        <option value="5">Đã huỷ</option>
+    </select>
+</form>
+<div>
+    <h4>From @ViewBag.FromDate to @ViewBag.ToDate</h4>
+    <h3 style="color : red">$@ViewBag.sum</h3>
+</div>

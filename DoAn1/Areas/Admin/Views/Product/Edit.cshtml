@@ -1,0 +1,51 @@
+﻿@model DoAn1.Models.Laptop
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Laptop</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="LaptopID" />
+            <div class="form-group">
+                <label asp-for="TenLaptop" class="control-label"></label>
+                <input asp-for="TenLaptop" class="form-control" />
+                <span asp-validation-for="TenLaptop" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Giatien" class="control-label"></label>
+                <input asp-for="Giatien" class="form-control" />
+                <span asp-validation-for="Giatien" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SoLuong" class="control-label"></label>
+                <input asp-for="SoLuong" class="form-control" />
+                <span asp-validation-for="SoLuong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThongSo" class="control-label"></label>
+                @*<input asp-for="ThongSo" class="form-control" />*@
+                <textarea rows="6" asp-for="ThongSo" class="form-control"></textarea>
+                <span asp-validation-for="ThongSo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+            @if (ViewBag.Status == 1)
+            {
+                <p class="text-warning">Record saved </p>
+            }
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

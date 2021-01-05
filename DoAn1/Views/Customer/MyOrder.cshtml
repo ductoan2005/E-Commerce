@@ -1,0 +1,67 @@
+﻿@model IEnumerable<DoAn1.Models.HoaDon>
+
+@{
+    ViewData["Title"] = "MyOrder";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h3>MyOrder</h3>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                Ngày đặt hàng
+            </th>
+            <th>
+                Trạng thái
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngay)
+            </td>
+            @if (item.TrangThai == 1)
+            {
+                <td style="color:#997602; font-weight:bold">Đang chờ xử lý đơn hàng</td>
+                <td>
+                    <a asp-action="CancelOrder" asp-controller="Customer" asp-route-id="@item.HoaDonID" style="color:#997602; font-weight:bold">Huỷ Đơn Hàng</a>
+                </td>
+            }
+            else if (item.TrangThai == -1)
+            {
+                <td style="color:red; font-weight:bold">Giao hàng không thành công</td>
+            }
+            else if (item.TrangThai == 2)
+            {
+                <td style="color:blue; font-weight:bold">Đã giao hàng cho shipper</td>
+                <td><a asp-action="CancelOrder" asp-controller="Customer" asp-route-id="@item.HoaDonID" style="color:#997602; font-weight:bold">Huỷ Đơn Hàng</a></td>
+            }
+            else if (item.TrangThai == 3)
+            {
+                <td style="color:green; font-weight:bold">Shipper đang trên đường giao tới cho bạn</td>
+            }
+            else if (item.TrangThai == 4)
+            {
+                <td style="color:green; font-weight:bold">Đã giao hàng thành công</td>
+            }
+            else if (item.TrangThai == 5)
+            {
+                <td style="color:green; font-weight:bold">Đã thanh toán, đang chờ xử lý đơn hàng</td>
+                <td><a asp-action="CancelOrder" asp-controller="Customer" asp-route-id="@item.HoaDonID" style="color:#997602; font-weight:bold">Huỷ Đơn Hàng</a></td>
+            }
+            else if (item.TrangThai == 0)
+            {
+                <td style="color:red; font-weight:bold">Đã huỷ</td>
+            }
+            <td>
+                <a asp-action="DetailsMyOder" asp-controller="Customer" asp-route-id="@item.HoaDonID">Chi tiết</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

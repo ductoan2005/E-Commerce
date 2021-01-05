@@ -1,0 +1,51 @@
+﻿@model DoAn1.Models.GioHang
+
+@{
+    ViewData["Title"] = "CustomerDetails";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h1>Thông tin mua hàng</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-4">
+        <form asp-action="CustomerDetails" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label name="tenkhachhang" class="control-label">Ten Khach Hang</label>
+                <input name="tenkhachhang" class="form-control" />
+                <span name="tenkhachhang" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label name="email" class="control-label">Email</label>
+                <input name="email" class="form-control" />
+                <span name="email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label name="diachi" class="control-label">Dia Chi</label>
+                <input name="diachi" class="form-control" />
+                <span name="diachi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label name="sodienthoai" class="control-label">So Dien Thoai</label>
+                <input name="sodienthoai" class="form-control" />
+                <span name="sodienthoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="thanh toán" style="width:300px; display: inline-block; padding: 19px 61px; background-color: #0A98C0; font-size: 15px; font-weight: 700; -webkit-transition: 0.5s; transition: 0.5s; text-transform: capitalize; color: #fff;" />
+            </div>
+        </form>
+    </div>
+
+</div>
+
+
+
+
+        <div>
+            <a asp-action="Index">Back to List</a>
+        </div>
+

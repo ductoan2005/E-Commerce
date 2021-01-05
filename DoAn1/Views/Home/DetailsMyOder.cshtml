@@ -1,0 +1,41 @@
+﻿@model IEnumerable<DoAn1.Models.CT_HoaDon>
+
+@{
+    ViewData["Title"] = "DetailsMyOder";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h3>DetailsMyOder</h3>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                Laptop
+            </th>
+            <th>
+                Số lượng
+            </th>
+            <th>
+                Tổng tiền
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Laptop.TenLaptop)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SoLuong)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TongTien)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

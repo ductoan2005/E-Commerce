@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+@model DoAn1.Models.KhachHang;
+
+<section class="breadcrumb breadcrumb_bg" style="position: relative; z-index: 1; background-color: #e8f0f2; margin-bottom: 0px !important;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+                <div class="breadcrumb_iner">
+                    <div class="breadcrumb_iner_item">
+                        <p style="font-size: 15px; color: #777777;">Laptop / Edit</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<br />
+<div class="container">
+    <h5 style="text-align:center; font-weight:bold">Thay đổi thông tin</h5>
+    <div class="row">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-8 col-md-12 col-sm-12">
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <div class="form-group" hidden>
+                    <label asp-for="Id" class="control-label"></label>
+                    <input asp-for="Id" class="form-control" />
+                    <span asp-validation-for="Id" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label value="Họ tên" class="control-label"></label>
+                    <input asp-for="TenKH" class="form-control" placeholder="Nhập tên.." style=" border: 0px solid transparent; border-bottom: 1px solid #dddddd; border-radius: 0; " />
+                    <span asp-validation-for="TenKH" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label value="Địa chỉ" class="control-label"></label>
+                    <input asp-for="DiaChiKH" class="form-control" placeholder="Nhập địa chỉ.." style=" border: 0px solid transparent; border-bottom: 1px solid #dddddd; border-radius: 0; " />
+                    <span asp-validation-for="DiaChiKH" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label value="Số điện thoại" class="control-label"></label>
+                    <input type="number" asp-for="DienThoaiKH" class="form-control" placeholder="Nhập số điện thoại.." style=" border: 0px solid transparent; border-bottom: 1px solid #dddddd; border-radius: 0; " />
+                    <span asp-validation-for="DienThoaiKH" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">HinhAnh</label>
+                    <input type="file" class="form-control" name="photo" id="photo" style=" border: 0px solid transparent; border-bottom: 1px solid #dddddd; border-radius: 0; " />
+                </div>
+                <div class="form-group">
+                    <input type="submit" class="btnRegister" value="Lưu thay đổi" style="float: right; margin-top: 10%; border: none; border-radius: 1.5rem; padding: 2%; background: #0062cc; color: #fff; font-weight: 600; width: 200px; height: 50px; cursor: pointer;" />
+                    <a asp-action="Details" asp-route-id="@Model.Id" style="float: right;text-align:center; margin-top: 10%; border: none; border-radius: 1.5rem; padding: 2%; background: #0062cc; color: #fff; font-weight: 600; width: 200px; height: 50px; cursor: pointer;">Quay về</a>
+                </div>
+
+
+                @if (ViewBag.Status == 1)
+                {
+                    <p class="text-warning">Record saved </p>
+                }
+            </form>
+        </div>
+        <div class="col-lg-2"></div>
+    </div>
+</div>

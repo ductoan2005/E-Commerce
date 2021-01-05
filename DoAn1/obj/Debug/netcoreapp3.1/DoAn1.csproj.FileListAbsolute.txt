@@ -1,0 +1,1466 @@
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.exe
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.deps.json
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.json
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.dev.json
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.pdb
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.pdb
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Study\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csprojAssemblyReference.cache
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfoInputs.cache
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfo.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CoreCompileInputs.cache
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cache
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.input.cache
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.output.cache
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorCoreGenerate.cache
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateRole.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditRole.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditUsersInRole.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\ListRole.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\NotFound.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\Index.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\CheckOut.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\NotFound.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DetailsMyOder.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\MyOrder.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Find.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByName.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByPrice.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cache
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cs
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.Views.pdb
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CopyComplete
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.Manifest.cache
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.xml
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.dll
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.pdb
+D:\Study\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.genruntimeconfig.cache
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.exe
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.deps.json
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.json
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.dev.json
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cache
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfo.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.input.cache
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.output.cache
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorCoreGenerate.cache
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditUsersInRole.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\ListRole.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\NotFound.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\CheckOut.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\NotFound.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DetailsMyOder.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\MyOrder.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Find.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByName.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByPrice.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CopyComplete
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.Manifest.cache
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.xml
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\USER\Downloads\DoAn1 (3)\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.genruntimeconfig.cache
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.exe
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.deps.json
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.json
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.dev.json
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csprojAssemblyReference.cache
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cache
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfoInputs.cache
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfo.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.input.cache
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.output.cache
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorCoreGenerate.cache
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditUsersInRole.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\ListRole.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\NotFound.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\Index.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\CheckOut.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\NotFound.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DetailsMyOder.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\MyOrder.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Find.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByName.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByPrice.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cache
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cs
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CopyComplete
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.Manifest.cache
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.xml
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\Duy Dat\Desktop\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.genruntimeconfig.cache
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.exe
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.deps.json
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.json
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.dev.json
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csprojAssemblyReference.cache
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfoInputs.cache
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfo.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cache
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.input.cache
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.output.cache
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorCoreGenerate.cache
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditUsersInRole.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\ListRole.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\NotFound.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\CheckOut.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\NotFound.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DetailsMyOder.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\MyOrder.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Find.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByName.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByPrice.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cache
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cs
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CopyComplete
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.Manifest.cache
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.xml
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\datvn\OneDrive\Máy tính\New folder (2)\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.genruntimeconfig.cache
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.exe
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.deps.json
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.json
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.dev.json
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cache
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfo.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.input.cache
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.output.cache
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorCoreGenerate.cache
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditUsersInRole.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\ListRole.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\NotFound.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\CheckOut.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\NotFound.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DetailsMyOder.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\MyOrder.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Find.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByName.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByPrice.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CopyComplete
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.Manifest.cache
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.xml
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.genruntimeconfig.cache
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\USER\Downloads\DA1\DoAn1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\CheckOut.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\CustomerDetails.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\NotFound.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\DetailsMyOder.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchOrder.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ResultSearchOrder.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Chart\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\USER\Downloads\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csprojAssemblyReference.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.exe
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.deps.json
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.json
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.dev.json
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfoInputs.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfo.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.Manifest.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.xml
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\scopedcss\bundle\DoAn1.styles.css
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.input.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.output.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorCoreGenerate.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditUsersInRole.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\ListRole.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\NotFound.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Chart\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\CheckOut.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\CustomerDetails.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\NotFound.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\NotFound.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DetailsMyOder.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\MyOrder.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\DetailsMyOder.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Find.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ResultSearchOrder.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchOrder.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByName.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByPrice.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CopyComplete
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.genruntimeconfig.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Success.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\Success.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Chart\ProductChartIndex.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csprojAssemblyReference.cache
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\CheckOutDone.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieu\Index.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieu\Details.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieu\Create.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieu\Edit.cshtml.g.cs
+C:\Users\datvn\OneDrive\Máy tính\app-new\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieu\Delete.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cache
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorAssemblyInfo.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfo.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.exe
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.deps.json
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.json
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.dev.json
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.input.cache
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.TagHelpers.output.cache
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorCoreGenerate.cache
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\EditUsersInRole.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\ListRole.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\NotFound.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\Index.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Chart\Index.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Chart\ProductChartIndex.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieu\Create.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieu\Delete.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieu\Details.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieu\Edit.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieu\Index.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\CheckOut.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\CustomerDetails.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\Index.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\NotFound.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\CartnoLogin\Success.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\CheckOutDone.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\NotFound.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Success.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DetailsMyOder.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\MyOrder.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\DetailsMyOder.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Find.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ResultSearchOrder.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchOrder.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByName.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SortByPrice.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.Views.pdb
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CopyComplete
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.Manifest.cache
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\staticwebassets\DoAn1.StaticWebAssets.xml
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.genruntimeconfig.cache
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\CancelOrder.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GhiChu\Create.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GhiChu\Delete.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GhiChu\Edit.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GhiChu\Index.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Home\CancelOrder.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\CheckOut.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\GenVoucher.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Voucher.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\Index.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\CreateUser.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\Edit.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\ChangePassword.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ChangePassword.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\List.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\CancelList.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\ReturnList.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\ReturnOrder.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Cart\SuccessList.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\GenVoucher.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\Voucher.cshtml.g.cs
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Đồ Án 1\DA1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.MvcApplicationPartsAssemblyInfo.cache

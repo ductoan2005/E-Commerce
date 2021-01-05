@@ -1,0 +1,15 @@
+﻿@model DoAn1.Models.HoaDon
+@{
+    ViewData["Title"] = "CancelOrder";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h1>CancelOrder</h1>
+<form asp-controller="Customer" asp-action="CancelOrder" asp-route-id="@ViewBag.id" method="post">
+    <div class="form-group">
+        <label asp-for="GhiChuID" class="control-label"></label>
+        <select name="ghichu" class="form-control" asp-items="@(new SelectList(ViewBag.gc,"GhiChuID","TenGhiChu"))"></select>
+    </div>
+    <input type="submit" value="Xác Nhận" />
+</form>
+

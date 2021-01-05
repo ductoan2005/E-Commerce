@@ -1,0 +1,197 @@
+﻿@model DoAn1.Models.KhachHangDangNhapModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+
+@*<div class="row">
+        <div class="col-md-6">
+            <h1>Local Login</h1>
+            <form asp-action="Login" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Email" class="form-control"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="form-control"></label>
+                    <input asp-for="Password" type="password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group form-check">
+                    <label class="form-control form-check">
+                        <input class="form-check-input" asp-for="RememberMe" />@Html.DisplayNameFor(model => model.RememberMe)
+                    </label>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Login" class="btn btn-outline-success" />
+                </div>
+            </form>
+        </div>
+        <div class="col-md-6">
+            <h1>External Login</h1>
+            @{
+                if (Model.ExternalLogin.Count == 0)
+                {
+                    <div>No External Login</div>
+                }
+                else
+                {
+                    <form method="post" asp-action="ExternalLogin" asp-route-returnUrl="@Model.ReturnURL">
+                        <div>
+                            @foreach(var provider in Model.ExternalLogin)
+                            {
+                                <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Login with your @provider.DisplayName account">@provider.DisplayName</button>
+                            }
+                        </div>
+                    </form>
+                }
+            }
+        </div>
+
+    </div>*@
+
+@*<section class="login_part section_padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6">
+                        <div class="login-external">
+                            <h3>
+                                Welcome Back ! <br>
+                                Please Sign in now
+                            </h3>
+                            <form class="row contact_form" asp-action="Login" method="post">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <div class="col-md-12 form-group">
+                                    <input asp-for="Email" class="form-control"  placeholder="Email" style=" border: 0px solid transparent; border-bottom: 1px solid #dddddd; border-radius: 0; ">
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-12 form-group">
+                                    <input asp-for="Password" type="password" class="form-control" placeholder="Password" style=" border: 0px solid transparent; border-bottom: 1px solid #dddddd; border-radius: 0; ">
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-12 form-group">
+                                    <div class="creat_account d-flex align-items-center">
+                                        <input type="checkbox" asp-for="RememberMe">
+                                        <label for="f-option" style="font-size: 14px; margin-bottom: 0; margin-left: 10px;">@Html.DisplayNameFor(model => model.RememberMe)</label>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <button type="submit" value="Login" class="btn">Log in</button>
+                                </div>
+                            </form>
+                        </div>
+                </div>
+                <div class="col-lg-6 col-md-6">
+                        <div class="login-internal">
+                            <h3>Login with:</h3>
+                            @{
+                                if (Model.ExternalLogin.Count == 0)
+                                {
+                                    <div>No External Login</div>
+                                }
+                                else
+                                {
+                                    <form method="post" asp-action="ExternalLogin" asp-route-returnUrl="@Model.ReturnURL">
+                                        <div>
+                                            @foreach (var provider in Model.ExternalLogin)
+                                            {
+                                                <button type="submit" class="btn" name="provider" value="@provider.Name" title="Login with your @provider.DisplayName account" >Đăng nhập bằng @provider.DisplayName</button>
+                                            }
+                                        </div>
+                                    </form>
+                                }
+                            }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>*@
+
+<section class="breadcrumb breadcrumb_bg" style="position: relative; z-index: 1; background-color: #e8f0f2; margin-bottom: 0px !important;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+                <div class="breadcrumb_iner">
+                    <div class="breadcrumb_iner_item">
+                        <p style="font-size: 15px; color: #777777;">Home / Login</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<hr />
+<div class="container login" style="background: -webkit-linear-gradient(left, #3931af, #00c6ff); margin-top: 3%; padding: 3%;">
+    <div class="row">
+        <div class="col-md-3 login-left" style="text-align: center; color: #fff; margin-top: 4%;">
+            <h3 style="font-weight:bold">Đăng nhập</h3>
+            <p>Nếu bạn chưa có tài khoản, hãy Đăng ký</p>
+            <a asp-controller="Account" asp-action="Register" style="border: none; border-radius: 1.5rem; padding: 2%; width: 60%; background: #f8f9fa; font-weight: bold; color: #383d41; margin-top: 30%; margin-bottom: 3%; cursor: pointer;">Đăng ký</a>
+        </div>
+        <div class="col-md-9 login-right" style="background: #f8f9fa; border-top-left-radius: 10% 50%; border-bottom-left-radius: 10% 50%;">
+            <ul class="nav nav-tabs nav-justified" role="tablist" style="margin-top: 3%; border: none; background: #0062cc; border-radius: 1.5rem; width: 28%; float: right;">
+                <li class="nav-item">
+                    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Local</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">External</a>
+                </li>
+            </ul>
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <h3 class="register-heading" style="text-align: center; margin-top: 8%; margin-bottom: -15%; color: #495057;">Welcome back!</h3>
+                    <form asp-action="Login" method="post" style="padding: 10%; margin-top: 10%;">
+                        <div class="row register-form">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input asp-for="Email" class="form-control" placeholder="Email">
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <div class="creat_account d-flex align-items-center">
+                                        <input type="checkbox" asp-for="RememberMe">
+                                        <label for="f-option" style="font-size: 14px; margin-bottom: 0; margin-left: 10px;">@Html.DisplayNameFor(model => model.RememberMe)</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input asp-for="Password" type="password" class="form-control" placeholder="Password" style=" border: 0px solid transparent; border-bottom: 1px solid #dddddd; border-radius: 0; ">
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                                <input type="submit" class="btnRegister" value="Đăng nhập" style="float: right; margin-top: 10%; border: none; border-radius: 1.5rem; padding: 2%; background: #0062cc; color: #fff; font-weight: 600; width: 50%; cursor: pointer;" />
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="tab-pane fade show" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                    <h3 class="register-heading" style="text-align: center; margin-top: 8%; margin-bottom: -15%; color: #495057;">Login with:</h3>
+                    @{
+                        if (Model == null)
+                        {
+                            <div>Sai Username hoặc Password</div>
+                        }
+                        else
+                        {
+                            <form method="post" asp-action="ExternalLogin" asp-route-returnUrl="@Model.ReturnURL" style="padding: 10%; margin-top: 10%;">
+                                <div class="row register-form">
+                                    @foreach (var provider in Model.ExternalLogin)
+                                    {
+                                        <button type="submit" class="btn" name="provider" value="@provider.Name" title="Login with your @provider.DisplayName account" style="float: right; margin-top: 10%; border: none; border-radius: 1.5rem; padding: 2%; background: #0062cc; color: #fff; font-weight: 600; width: 50%; cursor: pointer;">
+                                            Đăng nhập bằng @provider.DisplayName
+                                        </button>
+                                    }
+                                </div>
+                            </form>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

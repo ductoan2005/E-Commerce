@@ -1,0 +1,60 @@
+﻿@model DoAn1.Models.Laptop
+
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h1>Add</h1>
+
+<h4>Laptop</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">TenSanPham</label>
+                <input asp-for="TenLaptop" class="form-control" />
+                <span asp-validation-for="TenLaptop" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Giatien" class="control-label"></label>
+                <input asp-for="Giatien" class="form-control" />
+                <span asp-validation-for="Giatien" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SoLuong" class="control-label"></label>
+                <input asp-for="SoLuong" class="form-control" min="1" value="1" />
+                <span asp-validation-for="SoLuong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThongSo" class="control-label"></label>
+                @*<input asp-for="ThongSo" class="form-control" />*@
+                <textarea rows="6" asp-for="ThongSo" class="form-control"></textarea>
+                <span asp-validation-for="ThongSo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Hinh Anh</label>
+                <input class="form-control" type="file" name="photo" id="photo" />
+            </div>
+            <div class="form-group">
+                <label asp-for="GioiThieu" class="control-label"></label>
+                @*<input asp-for="GioiThieu" class="form-control" />*@
+                <textarea rows="6" asp-for="GioiThieu" class="form-control"></textarea>
+                <span asp-validation-for="GioiThieu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThuongHieuID" class="control-label"></label>
+                <select asp-for="ThuongHieuID" class="form-control" asp-items="@(new SelectList(ViewBag.StateList,"ThuongHieuID","TenThuongHieu"))"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

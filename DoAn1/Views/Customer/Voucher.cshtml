@@ -1,0 +1,68 @@
+﻿@model IEnumerable<DoAn1.Models.Voucher>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<DoAn1.Models.KhachHang> SignInManager
+@inject UserManager<DoAn1.Models.KhachHang> UserManager
+@{
+    ViewData["Title"] = "Voucher";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h1>Voucher</h1>
+
+<p>
+    <a asp-action="GenVoucher" asp-route-id="@UserManager.GetUserId(User)">Gen Voucher</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MaVoucher)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrangThai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayTao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayHetHan)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.voucher)
+        {
+            <tr>
+                <td>
+                    @item.MaVoucher
+                </td>
+                <td>
+                    @item.Discount%
+                </td>
+                @if (item.TrangThai == 1)
+                {
+                    <td>Voucher chưa sử dụng</td>
+                }
+                else if(item.TrangThai == 0)
+                {
+                    <td>Voucher đã sử dụng</td>
+                }
+                else if(item.TrangThai == 2)
+                {
+                    <td>Voucher đã hết hạn</td>
+                }
+                else if(item.TrangThai == -1)
+                {
+                    <td>Voucher đã bị huỷ</td>
+                }
+                <td>@item.NgayTao</td>
+                <td>@item.NgayHetHan</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="Index" asp-controller="Cart" asp-route-id="@UserManager.GetUserId(User)">Mua Hàng</a>
+

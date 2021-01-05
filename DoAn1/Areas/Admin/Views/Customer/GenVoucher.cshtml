@@ -1,0 +1,15 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<DoAn1.Models.KhachHang> SignInManager
+@inject UserManager<DoAn1.Models.KhachHang> UserManager
+@{
+    ViewData["Title"] = "GenVoucher";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h1>GenVoucher</h1>
+<form asp-controller="Customer" asp-action="GenVoucher" asp-route-id="@UserManager.GetUserId(User)" method="post">
+    <input type="number" name="discount" placeholder="Nhập vào giá trị discount" />
+    <input type="text" value="@ViewBag.MaVoucher" readonly />
+    <input type="submit" value="Gen Voucher" />
+</form>
+<a asp-controller="Customer" asp-action="Voucher" asp-route-id="@UserManager.GetUserId(User)">Xem Mã Voucher</a>

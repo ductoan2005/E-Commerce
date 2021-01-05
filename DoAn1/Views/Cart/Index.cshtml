@@ -1,0 +1,63 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<DoAn1.Models.KhachHang> SignInManager
+@inject UserManager<DoAn1.Models.KhachHang> UserManager
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+
+<section class="breadcrumb breadcrumb_bg" style="position: relative; z-index: 1; background-color: #e8f0f2; margin-bottom: 0px !important;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+                <div class="breadcrumb_iner">
+                    <div class="breadcrumb_iner_item">
+                        <p style="font-size: 15px; color: #777777;">Laptop / Cart</p>
+                        <p style="font-size: 15px; color: #777777;">Nếu bạn chưa có tài khoản, hãy tạo ngay để nhận được ưu đãi!</p>
+                        <p style="font-size: 15px; color: #777777;">Tất cả sản phẩm đều đã bao gồm phí ship!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<br />
+<div class="container">
+    <div class="table-responsive">
+        <table class="table">
+            <tr>
+                <th>Option</th>
+                <th style="display:none;">Id</th>
+                <th>Name</th>
+                <th>Photo</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Sub Total</th>
+            </tr>
+            @foreach (var item in ViewBag.cart)
+            {
+                <tr>
+                    <td><a asp-controller="Cart" asp-action="Remove" asp-route-id="@item.GioHangID">Remove</a></td>
+                    <td style="display:none;">@item.LaptopID</td>
+                    <td>@item.Laptop.TenLaptop</td>
+                    <td><img src="~/image/@item.Laptop.HinhAnh" width="150" height="150" /></td>
+                    <td>$@(item.Laptop.Giatien)</td>
+                    <td>@item.SoLuong</td>
+                    <td>$@(item.Laptop.Giatien * item.SoLuong)</td>
+                </tr>
+            }
+        </table>
+        <div class="checkout_btn_inner float-right">
+            <form method="get" asp-action="CheckOut" asp-controller="Cart" asp-route-id="@UserManager.GetUserId(User)">
+                <input type="submit" value="CheckOut" class="btn_1 checkout_btn_1" style="margin-right:7px; height:60px; display: inline-block; padding: 19px 61px; background-color: #0A98C0; font-size: 15px; font-weight: 700; -webkit-transition: 0.5s; transition: 0.5s; text-transform: capitalize; color: #fff;" />
+            </form>
+
+        </div>
+        <div class="checkout_btn_inner float-right">
+            <form asp-controller="Home" asp-action="index">
+                <input type="submit" value="Tiếp tục mua hàng" class="btn_1 checkout_btn_1" style="margin-right:7px; height:60px; display: inline-block; padding: 19px 61px; background-color: #0A98C0; font-size: 15px; font-weight: 700; -webkit-transition: 0.5s; transition: 0.5s; text-transform: capitalize; color: #fff;" />
+            </form>
+
+    </div>
+</div>

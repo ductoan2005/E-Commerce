@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<DoAn1.Models.KhachHang> SignInManager
+@inject UserManager<DoAn1.Models.KhachHang> UserManager
+<html>
+<head>
+
+</head>
+<body>
+    <ul class="nav justify-content-end">
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <a title="Welcome">Welcome @User.Identity.Name!</a>
+            
+            <li>
+                <a asp-controller="Customer" asp-action="Details" asp-route-id="@UserManager.GetUserId(User)"><i class="fas fa-user fa-lg"></i></a>
+            </li>
+            <li>
+                <a asp-controller="Cart" asp-action="Index" asp-route-id="@UserManager.GetUserId(User)"><i class="fas fa-shopping-cart fa-lg"></i></a>
+            </li>
+            <li>
+                <form class="form-inline" asp-controller="Account" asp-action="Logout" style="margin-top:8px; margin-left:10px">
+                    <button type="submit" class="btn text-info"><i class="fas fa-sign-out-alt fa-lg"></i></button>
+                </form>
+            </li>
+
+        }
+        else
+        {
+            <li>
+                <a asp-controller="Account" asp-action="Login">Login</a>
+            </li>
+            <li>
+                <a asp-controller="Account" asp-action="Register">Register</a>
+            </li>
+
+        }
+    </ul>
+
+</body>
+</html>

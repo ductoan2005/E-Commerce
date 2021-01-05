@@ -1,0 +1,261 @@
+﻿@model DoAn1.Models.Laptop
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+
+
+
+<div class="details-product">
+    <div class="container">
+        <div class="container justify-content-center">
+            <h4>@Html.DisplayFor(model => model.TenLaptop)</h4>
+            <hr />
+        </div>
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
+                <img src="~/image/@Model.HinhAnh" class="img-thumbnail" style="width:400px; height:400px" alt="" />
+            </div>
+            <div class="col-xl-8 col-lg-8">
+                <h3>@Html.DisplayFor(model => model.TenLaptop)</h3>
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4">
+                        <p>Thương hiệu: @Html.DisplayFor(model => model.ThuongHieu.TenThuongHieu)</p>
+                    </div>
+                    @if (Model.SoLuong > 0)
+                    {
+                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4">
+                            <p>Tình trạng: Còn hàng</p>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4">
+                            <p>Tình trạng: Hết hàng</p>
+                        </div>
+                    }
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4">
+                        <p>Sản phẩm: Mới 100%</p>
+                    </div>
+                </div>
+                <div class="prictag">
+                    <h4 style="color: red; font-weight: bold;">$@Html.DisplayFor(model => model.Giatien)</h4>
+                </div>
+                <div class="rating">
+                    @if (ViewBag.SLComment > 0)
+                    {
+                        <div style="display:inline-flex;">
+                            <i class="ratingStar fas fa-star fa-lg" style="color:#fd9727"></i>
+                            <p style="font-weight:700;">@ViewBag.sumrating.ToString("0.0")</p>
+                            <p>/5</p>
+                            <p style="font-style:italic;">(@ViewBag.SLComment người đánh giá</p>)
+                        </div>
+                    }
+                </div>
+                <div class="product-summary">
+                    <span class="pduct-summary" style="font-weight: bold;">Thông tin sản phẩm:</span>
+                    <div class="pduct description">
+                        <p>
+                            <span line-height: 26px;">
+                                ✓ Tính năng cơ bản: giày chạy bộ.
+                                <br />
+                                ✓ Phù hợp cho mọi lứa tuổi.
+                                <br />
+                                ✓ Thiết kế bền đẹp sang trọng, tinh tế.
+                                <br />
+                                
+                            </span>
+                        </p>
+                    </div>
+                </div>
+                <div class="cartbutton">
+                    @*<a asp-action="Buy" asp-controller="Cart" asp-route-id="@Model.LaptopID" class="btn btn-light" id="cartbtn"
+                       style="border: 1px solid #0A98C0;
+                            border-radius: 0;
+                            min-width: 200px;
+                            min-height: 30px;
+                            background-color: white;
+                            font-weight: bold;
+                            color: #0A98C0;
+    ">THÊM VÀO GIỎ HÀNG</a>*@
+                    <form asp-action="Buy" asp-controller="Cart" method="post" >
+                        <span>
+                            <input type="number" name="soLuong" value="1" min="1" max="@Model.SoLuong" />
+                            <input type="hidden" name="id" value="@Model.LaptopID" />
+                            <input type="submit" value="THÊM VÀO GIỎ HÀNG" style="border: 1px solid #0A98C0;
+                            border-radius: 0;
+                            min-width: 200px;
+                            min-height: 30px;
+                            background-color: white;
+                            font-weight: bold;
+                            color: #0A98C0;
+    " />
+                        </span>
+                    </form>
+                </div>
+            </div>
+
+
+        </div>
+        <br /><br />
+        <div class="about-product">
+            <div class="about-product-description position-relative my40">
+                <h4>Về sản phẩm</h4>
+                <section class="product_description_area">
+                    <div class="container">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home"
+                                   aria-selected="true">Mô tả</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile"
+                                   aria-selected="false">Thông số</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" id="review-tab" data-toggle="tab" href="#review" role="tab" aria-controls="review"
+                                   aria-selected="false">Bình luận</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="myTabContent" style="padding-top: 30px;">
+                            <div class="tab-pane fade" id="home" role="tabpanel" aria-labelledby="home-tab">
+                                <p>@Html.DisplayFor(model => model.GioiThieu)</p>
+                            </div>
+                            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                                <div class="table-responsive">
+                                    <p>@Html.TextAreaFor(model => model.ThongSo, new { @class = "specs-info", @rows = 7, style = "border: none;" })</p>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade show active" id="review" role="tabpanel" aria-labelledby="review-tab">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="row total_rate">
+                                            <div class="col-6">
+                                                <div class="box_total" style=" background: #f4f4f4; text-align: center; padding-top: 20px; padding-bottom: 20px; border: 1px solid #dddddd;">
+                                                    <h5 style="color: #2a2a2a; margin-bottom: 0px; font-size: 24px;">Overall</h5>
+                                                    @if (ViewBag.SLComment > 0)
+                                                    {
+                                                        <h4 style="color: #2f7dfc; font-size: 48px; font-weight: bold;">@ViewBag.sumrating.ToString("0.0")</h4>
+                                                        <h6 style="color: #2a2a2a; margin-bottom: 0px; font-size: 14px; color: #797979; font-weight: normal;">(@ViewBag.SLComment người đánh giá)</h6>
+                                                    }
+                                                </div>
+                                            </div>
+                                            <div class="col-6">
+                                            </div>
+                                        </div>
+                                        <div class="review_list">
+                                            @foreach (var a in ViewBag.dsdanhgia)
+                                            {
+                                                <div class="review_item">
+                                                    <div class="media">
+                                                        <div class="d-flex">
+                                                            <img src="~/userimage/@a.KhachHang.HinhAnh" width="100" height="100" style="border-radius:50%;" />
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <p class="text-muted"> @a.CmtDate.ToString("dd/MM/yyyy hh:mm") </p>
+                                                            @for (int i = 0; i < @a.Rating; i++)
+                                                            {
+                                                                <i class="ratingStar fas fa-star" style="color:#fd9727"></i>;
+                                                            }
+                                                            @for (int i = @a.Rating; i < 5; i++)
+                                                            {
+                                                                <i class="ratingStar fas fa-star" style="color:#dedddd"></i>;
+                                                            }
+                                                        </div>
+                                                    </div>
+                                                    <p style="font-size:17px; color:black; font-weight:bold">@a.KhachHang.TenKH</p>
+                                                    <p style="font-size:15px;">@a.Text</p>
+                                                </div>
+                                            }
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="review_box">
+                                            @if (User.Identity.IsAuthenticated)
+                                            {
+                                                <h4 style="font-weight: bold">Thêm bình luận của bạn</h4>
+                                                @using (Html.BeginForm("CreateCmt", "Home", FormMethod.Post, new { onsubmit = "return VerifyRating()" }))
+                                                {
+                                                    <input type="hidden" value="@Model.LaptopID" name="laptopID" />
+                                                    <div class="form-group">
+                                                        <div onmouseout="CrateSelected()">
+                                                            <p>Đánh giá:</p>
+                                                            <span class="text-warning">
+                                                                <i id="span1" onmouseout="CrateOut(1)" onmouseover="CrateOver(1)" onclick="CrateClick(1)" class="ratingStar far fa-star"></i>
+                                                                <i id="span2" onmouseout="CrateOut(2)" onmouseover="CrateOver(2)" onclick="CrateClick(2)" class="ratingStar far fa-star"></i>
+                                                                <i id="span3" onmouseout="CrateOut(3)" onmouseover="CrateOver(3)" onclick="CrateClick(3)" class="ratingStar far fa-star"></i>
+                                                                <i id="span4" onmouseout="CrateOut(4)" onmouseover="CrateOver(4)" onclick="CrateClick(4)" class="ratingStar far fa-star"></i>
+                                                                <i id="span5" onmouseout="CrateOut(5)" onmouseover="CrateOver(5)" onclick="CrateClick(5)" class="ratingStar far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <br />
+                                                        <textarea rows="8" name="text" class="form-control" placeholder="Viết bình luận ở đây." required></textarea>
+                                                    </div>
+                                                    <input type="submit" class="btn btn-success" value="BÌNH LUẬN" style="border: 1px solid #0A98C0;
+                                                                                                                    border-radius: 0;
+                                                                                                                    background-color: white;
+                                                                                                                    font-weight: bold;
+                                                                                                                    color: #0A98C0;
+                                                                                                                    padding: 13px 19px" />
+                                                    <div>
+                                                        <input type="hidden" name="rating" id="lblRating" value="0" />
+                                                    </div>
+                                                }
+
+
+                                            }
+                                            else
+                                            {
+                                                <h4 style="font-weight: bold">Bạn chưa đăng nhập! Hãy đăng nhập để bình luận.</h4>
+                                                <a asp-action="login" asp-controller="account" class="btn btn-primary" style="color: white; border: 1px solid #0A98C0; background-color: #0A98C0; font-weight: bold;">ĐĂNG NHẬP</a>
+                                            }
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    function CrateOut(rating) {
+        for (var i = 1; i <= rating; i++) {
+            $("#span" + i).attr('class', 'far fa-star');
+        }
+    }
+    function CrateOver(rating) {
+        for (var i = 1; i <= rating; i++) {
+            $("#span" + i).attr('class', 'fas fa-star');
+        }
+    }
+    function CrateClick(rating) {
+        $("#lblRating").val(rating);
+        for (var i = 1; i <= rating; i++) {
+            $("#span" + i).attr('class', 'fas fa-star');
+        }
+        for (var i = rating + 1; i <= 5; i++) {
+            $("#span" + i).attr('class', 'far fa-star');
+        }
+    }
+    function CrateSelected() {
+        var rating = $("#lblRating").val();
+        for (var i = 1; i <= rating; i++) {
+            $("#span" + i).attr('class', 'fas fa-star');
+        }
+    }
+    function VerifyRating() {
+        var rating = $("#lblRating").val();
+        if (rating == "0") {
+            alert("chưa đánh giá chất lượng sản phẩm.");
+            return false;
+        }
+    }
+</script>

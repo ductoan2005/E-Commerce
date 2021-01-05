@@ -1,0 +1,269 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor httpContextaccessor
+<!--model Laptop-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Sneaker Shop</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="google-site-verification" content="krvOy9dODf0eA_MuJZMaN1MG26GA6APW7XzPo9_yvn4" />
+
+    <!--Font Awesome-->
+    <script src="https://kit.fontawesome.com/cd9cf4847b.js" crossorigin="anonymous"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,400,500,600,700" rel="stylesheet">
+    <!-- Vendor CSS Files -->
+    <link href="~/user/css/checkout.css" rel="stylesheet">
+    <link href="~/user/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/user/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="~/user/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/user/vendor/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="~/user/vendor/venobox/venobox.css" rel="stylesheet">
+    <link href="~/user/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <!-- Template Main CSS File -->
+
+    @{
+        var theme = httpContextaccessor.HttpContext.Request.Cookies["theme"];
+
+        if (theme == "Darkmode")
+        {
+        <link href="~/user/css/darkmode.css" rel="stylesheet">
+        }
+        if (theme == "None")
+        {
+        <link href="~/user/css/style.css" rel="stylesheet">
+        }
+        if (theme == null)
+        {
+        <link href="~/user/css/style.css" rel="stylesheet">
+        }
+    }
+
+</head>
+<body>
+    <!-- ======= Header ======= -->
+    <header id="header" class="header-inner-pages">
+        <div id="topbar">
+            <div class="container">
+                <div class="social-links">
+                    <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+                    <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+                    <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                    <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="logo float-left">
+                <!-- Uncomment below if you prefer to use an image logo -->
+                <h1 class="text-light"><a class="scrollto" asp-area="" asp-controller="Home" asp-action="Index"><span>Sneaker</span></a></h1>
+                <!-- <a href="index.html" class="scrollto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
+            </div>
+            <nav class="main-nav float-center d-none d-lg-block">
+                <ul>
+                    <li class="active"><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li class="drop-down">
+                        <a href="">Sản phẩm</a>
+                        <ul>
+                            <li class="drop-down">
+                                <a href="#">Sneaker</a>
+                                <ul>
+                                    <li><a asp-controller="Category" asp-action="Index" asp-route-id="1">Vans</a></li>
+                                    <li><a asp-controller="Category" asp-action="Index" asp-route-id="2">Adidas</a></li>
+                                    <li><a asp-controller="Category" asp-action="Index" asp-route-id="3">Converse</a></li>
+                                    <li><a asp-controller="Category" asp-action="Index" asp-route-id="4">Fila</a></li>
+                                    <li><a asp-controller="Category" asp-action="Index" asp-route-id="5">Nike</a></li>
+                                    <li><a asp-controller="Category" asp-action="Index" asp-route-id="6">Timberland</a></li>
+                                </ul>
+                            </li>
+
+                            <li><a href="#">Phụ kiện</a></li>
+                        </ul>
+                    </li>
+                    <li><a asp-controller="Home" asp-action="SearchOrder">Thông tin giao hàng</a></li>
+                    <li><a href="#footer">Contact Us</a></li>
+                </ul>
+                <ul class="nav justify-content-end">
+
+                    <partial name="_LoginPartial"></partial>
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                    }
+                </ul>
+            </nav><!-- .main-nav -->
+        </div>
+    </header><!-- #header -->
+    <!-- Load Facebook SDK for JavaScript -->
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                xfbml: true,
+                version: 'v9.0'
+            });
+        };
+
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Your Chat Plugin code -->
+    <div class="fb-customerchat"
+         attribution=setup_tool
+         page_id="106507641382464"
+         theme_color="#e68585">
+    </div>
+    <div class="container-fluid">
+        <main role="main" class="pb-3">
+
+            <br />
+            <br />
+            <br />
+            <br />
+            @if (TempData["AlertMessage"] != null)
+            {
+            <div id="alertBox" name="alertBox" class="alert @TempData["AlertType"] hide">
+                @TempData["AlertMessage"]
+            </div>
+            }
+            @RenderBody()
+        </main>
+    </div>
+    <!-- ======= Footer ======= -->
+    <footer id="footer" class="section-bg">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="footer-info">
+                                    <h3>Sneaker</h3>
+                                    <div class="row">
+                                        <div class="col-sm-9">
+                                            <select class="custom-select" name="theme" id="theme">
+                                                <option value="0">Select Theme</option>
+                                                <option value="1">Darkmode</option>
+                                                <option value="2">None</option>
+                                            </select>
+
+                                        </div>
+                                        <div class="col-sm-3" style="margin:0">
+                                            <a class="btn" style="background-color:#1bb1dc; color:white;" asp-action="index" asp-controller="home">Chọn</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="footer-newsletter">
+                                    <h4>Our Newsletter</h4>
+                                    <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem.</p>
+                                    <form action="" method="post">
+                                        <input type="email" name="email"><input type="submit" value="Subscribe">
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="footer-links">
+                                    <h4>Useful Links</h4>
+
+                                    <ul>
+                                        <li><a href="#">Home</a></li>
+                                        <li><a href="#about">About us</a></li>
+                                        <li><a href="#">Services</a></li>
+                                        <li><a href="#">Terms of service</a></li>
+                                        <li><a href="#">Privacy policy</a></li>
+                                    </ul>
+                                </div>
+                                <div class="footer-links">
+                                    <h4>Contact Us</h4>
+                                    <p>
+                                        828 Sư Vạn Hạnh<br>
+                                        Phường 13, Quận 10<br>
+                                        Tp.HCM <br>
+                                        <strong>Phone:</strong> +1 5589 55488 55<br>
+                                        <strong>Email:</strong> info@example.com<br>
+                                    </p>
+                                </div>
+                                <div class="social-links">
+                                    <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+                                    <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+                                    <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+                                    <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form">
+                            <h4>Send us a message</h4>
+                            <p>Nếu bạn có ý kiến muốn đóng góp, hay đơn giản bạn không hài lòng với dịch vụ của chúng tôi. Hãy để lại lời nhắn của bạn.</p>
+                            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                                <div class="form-group">
+                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                    <div class="validate"></div>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                                    <div class="validate"></div>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                                    <div class="validate"></div>
+                                </div>
+                                <div class="form-group">
+                                    <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                                    <div class="validate"></div>
+                                </div>
+                                <div class="mb-3">
+                                    <div class="loading">Loading</div>
+                                    <div class="error-message"></div>
+                                    <div class="sent-message">Your message has been sent. Thank you!</div>
+                                </div>
+                                <div class="text-center"><button type="submit" title="Send Message">Send Message</button></div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong>2020</strong>. All Rights Reserved
+            </div>
+        </div>
+    </footer><!-- End  Footer -->
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+    <!-- Vendor JS Files -->
+    <script src="~/user/vendor/jquery/jquery.min.js"></script>
+    <script src="~/user/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/user/vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="~/user/vendor/php-email-form/validate.js"></script>
+    <script src="~/user/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="~/user/vendor/counterup/counterup.min.js"></script>
+    <script src="~/user/vendor/venobox/venobox.min.js"></script>
+    <script src="~/user/vendor/mobile-nav/mobile-nav.js"></script>
+    <script src="~/user/vendor/wow/wow.min.js"></script>
+    <script src="~/user/vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="~/user/vendor/waypoints/jquery.waypoints.min.js"></script>
+    <!-- Template Main JS File -->
+    <script src="~/user/js/main.js"></script>
+    <script src="~/user/js/changetheme.js"></script>
+    @section Scripts{
+        @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+    <script>
+        $(function () {
+            $('#alertBox').removeClass('hide');
+            $('#alertBox').delay(2000).slideUp(500);
+        });
+    </script>
+</body>
+</html>
